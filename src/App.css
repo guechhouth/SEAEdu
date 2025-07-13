@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.summary{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+  gap: 10px;
+  color:black;
+}
+.average, .parity, .spending, .top {
+  background-color:lightblue;
+  padding: 1rem;
+  border-radius: 8px;
+  flex: 1;
+}
+
+.header, .row{
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+  gap: 10px;
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 2rem;
+  gap: 10px;
+}
+
+#searchbar{
+  width: 50%;
+}
