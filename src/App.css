@@ -1,9 +1,4 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
+
 
 .summary{
   display: flex;
@@ -37,4 +32,23 @@
 
 #searchbar{
   width: 50%;
+}
+.info{
+  padding-left: 2rem;
+}
+.navbar {
+  height: auto;
+  width: 200px; 
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  top: 0;
+  text-align: center;
+}
+
+.navbar-links{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
 }
