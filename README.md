@@ -1,6 +1,5 @@
 # Web Development Project 5 - SEAEdu
-
-Submitted by: Chhiv Guech Houth
+By: Chhiv Guech Houth
 
 This web app: Educational Access in Southeast Asia (2019 data)
 
@@ -16,7 +15,7 @@ This web app: Educational Access in Southeast Asia (2019 data)
 - Interactive UI – Clean, responsive layout for better readability across devices.
 - Loading & Error Handling – Provides feedback while data loads and displays helpful messages if something goes wrong.
 - Reusable Components – Structured with modular components to make the code maintainable and extendable.
-
+- 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
